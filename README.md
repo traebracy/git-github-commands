@@ -1,8 +1,8 @@
 # git-github-commands
 
-This repository is a summary of Git and GitHub commands I practiced while learning version control.
+this repository is a summary of git && github commands I practiced while learning version control
 
-Git is used to track changes locally on my computer. GitHub is used to store repositories online and push code to a remote location.
+git is used to track changes locally on my computer && github is used to store repositories online and push code to a remote location
 
 ---
 
@@ -10,10 +10,10 @@ Git is used to track changes locally on my computer. GitHub is used to store rep
 
 | command              | what it does                              |
 | -------------------- | ----------------------------------------- |
-| `git init`           | Starts Git tracking in the current folder |
-| `git status`         | Shows the current state of the project    |
-| `git branch`         | Shows the branches in the repository      |
-| `git branch -M main` | Renames the current branch to `main`      |
+| `git init`           | starts git tracking in the current folder |
+| `git status`         | shows the current state of the project    |
+| `git branch`         | shows the branches in the repository      |
+| `git branch -M main` | renames the current branch to `main`      |
 
 ---
 
@@ -21,9 +21,9 @@ Git is used to track changes locally on my computer. GitHub is used to store rep
 
 | command                          | what it does                        |
 | -------------------------------- | ----------------------------------- |
-| `git add .`                      | Stages all changed files            |
-| `git add file-name`              | Stages one specific file            |
-| `git commit -m "commit message"` | Saves staged changes with a message |
+| `git add .`                      | stages all changed files            |
+| `git add file-name`              | stages one specific file            |
+| `git commit -m "commit message"` | saves staged changes with a message |
 
 ---
 
@@ -31,11 +31,11 @@ Git is used to track changes locally on my computer. GitHub is used to store rep
 
 | command                                | what it does                                          |
 | -------------------------------------- | ----------------------------------------------------- |
-| `git remote add origin repository-url` | Connects a local project to a GitHub repository       |
-| `git remote -v`                        | Shows the connected GitHub remote                     |
-| `git push -u origin main`              | Pushes the `main` branch to GitHub for the first time |
-| `git push`                             | Pushes new commits to GitHub                          |
-| `git pull`                             | Pulls the newest changes from GitHub                  |
+| `git remote add origin repository-url` | connects a local project to a github repository       |
+| `git remote -v`                        | shows the connected github remote                     |
+| `git push -u origin main`              | pushes the `main` branch to github for the first time |
+| `git push`                             | pushes new commits to github                          |
+| `git pull`                             | pulls the newest changes from github                  |
 
 ---
 
@@ -43,7 +43,7 @@ Git is used to track changes locally on my computer. GitHub is used to store rep
 
 | command                    | what it does                                 |
 | -------------------------- | -------------------------------------------- |
-| `git clone repository-url` | Copies a GitHub repository onto the computer |
+| `git clone repository-url` | copies a github repository onto the computer |
 
 ---
 
@@ -51,11 +51,11 @@ Git is used to track changes locally on my computer. GitHub is used to store rep
 
 | command                                      | what it does                                    |
 | -------------------------------------------- | ----------------------------------------------- |
-| `git checkout -b branch-name`                | Creates a new branch and switches to it         |
-| `git checkout branch-name`                   | Switches to an existing branch                  |
-| `git push --set-upstream origin branch-name` | Pushes a new branch to GitHub                   |
-| `git branch -d branch-name`                  | Deletes a local branch after it has been merged |
-| `git branch -D branch-name`                  | Force deletes a local branch                    |
+| `git checkout -b branch-name`                | creates a new branch and switches to it         |
+| `git checkout branch-name`                   | switches to an existing branch                  |
+| `git push --set-upstream origin branch-name` | pushes a new branch to github                   |
+| `git branch -d branch-name`                  | deletes a local branch after it has been merged |
+| `git branch -D branch-name`                  | force deletes a local branch                    |
 
 ---
 
@@ -124,14 +124,14 @@ git push --set-upstream origin update-readme
 
 ## what I practiced
 
-* Starting a Git repository
-* Checking the status of a project
-* Staging files
-* Committing changes
-* Connecting a project to GitHub
-* Pushing code to GitHub
-* Pulling updates from GitHub
-* Cloning repositories
-* Creating and switching branches
-* Deleting local branches
-* Understanding the difference between Git and GitHub
+* starting a git repository
+* checking the status of a project
+* staging files
+* committing changes
+* connecting a project to github
+* pushing code to github
+* pulling updates from github
+* cloning repositories
+* creating and switching branches
+* deleting local branches
+* understanding the difference between git & github
