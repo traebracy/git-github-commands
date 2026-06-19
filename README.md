@@ -1,4 +1,4 @@
-# git-github-commands
+# git-github-cmds
 
 this repository is a summary of git && github commands I practiced while learning version control
 
