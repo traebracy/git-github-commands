@@ -33,14 +33,6 @@
 
 ---
 
-## cloning
-
-| command                    | what it does                                 |
-| -------------------------- | -------------------------------------------- |
-| `git clone repository-url` | copies a github repository onto the computer |
-
----
-
 ## branching
 
 | command                                      | what it does                                    |
@@ -50,3 +42,11 @@
 | `git push --set-upstream origin branch-name` | pushes a new branch to github                   |
 | `git branch -d branch-name`                  | deletes a local branch after it has been merged |
 | `git branch -D branch-name`                  | force deletes a local branch                    |
+
+---
+
+## cloning
+
+| command                    | what it does                                 |
+| -------------------------- | -------------------------------------------- |
+| `git clone repository-url` | copies a github repository onto the computer |
