@@ -4,7 +4,7 @@ this repository is a summary of **(CLI)** commands I practiced while learning ho
 
 ---
 
-## git setup commands
+## git setup cmds
 
 | command              | what it does                              |
 | -------------------- | ----------------------------------------- |
@@ -15,7 +15,7 @@ this repository is a summary of **(CLI)** commands I practiced while learning ho
 
 ---
 
-## staging & committing commands
+## staging & committing cmds
 
 | command                          | what it does                        |
 | -------------------------------- | ----------------------------------- |
@@ -25,7 +25,7 @@ this repository is a summary of **(CLI)** commands I practiced while learning ho
 
 ---
 
-## github remote commands
+## github remote cmds
 
 | command                                | what it does                                          |
 | -------------------------------------- | ----------------------------------------------------- |
@@ -37,7 +37,7 @@ this repository is a summary of **(CLI)** commands I practiced while learning ho
 
 ---
 
-## clone command
+## clone cmd
 
 | command                    | what it does                                 |
 | -------------------------- | -------------------------------------------- |
@@ -45,7 +45,7 @@ this repository is a summary of **(CLI)** commands I practiced while learning ho
 
 ---
 
-## branch commands
+## branch cmds
 
 | command                                      | what it does                                    |
 | -------------------------------------------- | ----------------------------------------------- |
@@ -54,31 +54,6 @@ this repository is a summary of **(CLI)** commands I practiced while learning ho
 | `git push --set-upstream origin branch-name` | pushes a new branch to github                   |
 | `git branch -d branch-name`                  | deletes a local branch after it has been merged |
 | `git branch -D branch-name`                  | force deletes a local branch                    |
-
----
-
-## practice commands
-
-```bash
-git init
-git status
-git branch
-git branch -M main
-git add .
-git add file-name
-git commit -m "commit message"
-git remote add origin repository-url
-git remote -v
-git push -u origin main
-git push
-git pull
-git clone repository-url
-git checkout -b branch-name
-git checkout branch-name
-git push --set-upstream origin branch-name
-git branch -d branch-name
-git branch -D branch-name
-```
 
 ---
 
