@@ -82,7 +82,7 @@ git branch -D branch-name
 
 ---
 
-## common git workflow
+## git workflow
 
 ```bash
 git status
@@ -93,7 +93,7 @@ git push
 
 ---
 
-## new project workflow
+## project workflow
 
 ```bash
 mkdir my-project
