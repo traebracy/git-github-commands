@@ -8,7 +8,7 @@ this repository is a summary of **(CLI)** commands I practiced while learning ho
 
 | command              | what it does                              |
 | -------------------- | ----------------------------------------- |
-| `git init`           | starts git tracking in the current folder |
+| `git init`           | initializes a git repository              |
 | `git status`         | shows the current state of the project    |
 | `git branch`         | shows the branches in the repository      |
 | `git branch -M main` | renames the current branch to `main`      |
