@@ -1,6 +1,6 @@
 # git-github-cmds
 
-this repository is a summary of **(CLI)** commands I practiced while learning how to use git && github.
+this repository is a summary of **(CLI)** commands I practiced while learning how to use git & github.
 
 ---
 
