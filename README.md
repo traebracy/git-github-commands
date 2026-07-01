@@ -1,9 +1,5 @@
 # git-github-cmds
 
-this repository is a summary of command-line cmds I practiced while learning how to use git & github.
-
----
-
 ## git setup 
 
 | command              | what it does                              |
